@@ -8,7 +8,7 @@ Zackary Loether is an information security professional currently based out of t
 [https://github.com/zloether/pwnage.py](https://github.com/zloether/pwnage.py)
 
 ## tweetbot.py
-`tweetboy.py` is a Twitter bot that is written in Python.
+`tweetbot.py` is a Twitter bot that is written in Python.
 
 [https://github.com/zloether/tweetbot.py](https://github.com/zloether/tweetbot.py)
 
